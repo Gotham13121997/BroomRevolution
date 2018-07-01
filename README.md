@@ -10,5 +10,5 @@ A volunteer management android app for AAP Kerala. Made in my freshman year of c
 
 ### SCREENSHOTS
 
-![alt text](https://github.com/Gotham13121997/BroomRevolution/blob/master/pics/pic1.jpeg)  
+![alt text](https://github.com/Gotham13121997/BroomRevolution/blob/master/pics/pic1.jpeg) 
 ![alt text](https://github.com/Gotham13121997/BroomRevolution/blob/master/pics/pic2.jpeg)  
